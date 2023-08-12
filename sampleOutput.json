@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "statista.com",
+    "title": "The 100 Billion Dollar Club",
+    "description": "The Bloomberg Billionaires Index shows that the world's most exclusive club is almost entirely an American affair at the moment. Among the ten people with net worths upwards of $100 billion as of Aug. 4, 2023, nine are American. The only exception is Frenchma…",
+    "url": "https://biztoc.com/x/ff9736f99858d861",
+    "urlToImage": "https://c.biztoc.com/p/ff9736f99858d861/s.webp",
+    "publishedAt": "2023-08-05T08:22:06Z",
+    "content": "The Bloomberg Billionaires Index shows that the world's most exclusive club is almost entirely an American affair at the moment. Among the ten people with net worths upwards of $100 billion as of Aug… [+287 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Biztoc.com"
+    },
+    "author": "statista.com",
+    "title": "The Billionaires' Brand Emporium",
+    "description": "The people who have built some of the world's most successful and influential companies have earned the extra cash that has enabled them to found and acquire - more companies and brands. However, the world's richest billionaires, including Elon Musk, Bernard …",
+    "url": "https://biztoc.com/x/6d71e01147990045",
+    "urlToImage": "https://c.biztoc.com/p/6d71e01147990045/s.webp",
+    "publishedAt": "2023-08-05T08:22:06Z",
+    "content": "The people who have built some of the world's most successful and influential companies have earned the extra cash that has enabled them to found and acquire - more companies and brands. However, the… [+297 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "La Vanguardia"
+    },
+    "author": "Beatriz Alcántara",
+    "title": "¿Qué significa en realidad el nuevo logo de Twitter?",
+    "description": "Si has vivido escondido en una cueva durante las últimas semanas, seguramente no te hayas enterado de que Twitter ya no es Twitter ni de que la red social ha dejado atrás el mítico pajarito azul que la representaba desde 2012. El nuevo logo de la plataforma e…",
+    "url": "https://www.lavanguardia.com/andro4all/redes-sociales/que-significa-en-realidad-el-nuevo-logo-de-twitter",
+    "urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/07/twitter-x.jpg?width=1200",
+    "publishedAt": "2023-08-05T08:03:31Z",
+    "content": "Esta X es el nuevo logo de Twitter, con un significado muy especial detrás de ella.\r\nSi has vivido escondido en una cueva durante las últimas semanas, seguramente no te hayas enterado de que Twitter … [+3183 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Presse-citron"
+    },
+    "author": "Romain Vitt",
+    "title": "Partir en vacances en voiture électrique : vraiment une galère ?",
+    "description": "Stations bondées, temps d’attente interminables, bornes inutilisables, tarifs exorbitants… voilà une panoplie de critiques souvent avancées par les « anti-électrique ». Mais les longs trajets en voiture électrique sont-ils vraiment une galère ?",
+    "url": "https://www.presse-citron.net/partir-en-vacances-en-voiture-electrique-vraiment-une-galere/",
+    "urlToImage": "https://www.presse-citron.net/app/uploads/2022/02/Superchargeur-Tesla-pour-tous.jpg",
+    "publishedAt": "2023-08-05T08:00:56Z",
+    "content": "<ul><li>Les “anti-électrique” avancent souvent que les longs trajets en voiture électrique sont une galère</li><li>Les “pro-électriques”, eux, présentent ces voyages comme merveilleux</li><li>Et si l… [+4939 chars]"
+    }
+]
+}
